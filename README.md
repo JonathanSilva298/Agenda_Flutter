@@ -1,6 +1,6 @@
 # agenda
 
-A new Flutter project.
+Aplicativo que simula uma agenda de contatos em flutter.
 
 ## Getting Started
 
